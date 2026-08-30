@@ -1,12 +1,13 @@
 <div align="center">
 
-# 💅 BeautyBookLabs
+# 💅 CitaLash
 
-**Construimos [CitaLash](https://citalash.com)** — el software de gestión
-para salones de belleza y centros de estética de España.
+**Software de gestión para salones de belleza y centros de estética de España.**
 
 Agenda online con widget de reservas propio · TPV con caja y arqueos ·
 tratamientos multi-sesión · bot de WhatsApp con IA · pagos con Stripe.
+
+[**citalash.com**](https://citalash.com)
 
 </div>
 
@@ -23,12 +24,12 @@ tratamientos multi-sesión · bot de WhatsApp con IA · pagos con Stripe.
 Monorepo **pnpm + Turborepo**: API NestJS · Web Next.js · Prisma · Redis ·
 Stripe Connect · Meta Cloud API.
 
-## El repo
+## Cómo trabajamos
 
-[`citalash`](https://github.com/BeautyBookLabs/citalash) — privado.
-Flujo: PRs a `develop` con CI (typecheck, lint, tests con ratchet de
-cobertura, Semgrep) y [SonarQube](https://sonar.citalash.com) como panel
-de calidad del código nuevo.
+El repositorio principal (**citalash**, privado) integra en `develop` vía
+PRs con CI obligatorio — typecheck, lint, tests con ratchet de cobertura y
+Semgrep — y [SonarQube](https://sonar.citalash.com) como panel de calidad
+del código nuevo. Producción despliega desde `develop`.
 
 ## Contacto
 
