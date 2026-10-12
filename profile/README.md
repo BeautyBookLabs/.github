@@ -1,36 +1,23 @@
 <div align="center">
 
-# 💅 CitaLash
+<img src="./citalash-banner.png" alt="Citalash, el software de reservas de tu salón" width="100%">
 
-**Software de gestión para salones de belleza y centros de estética de España.**
+<br>
 
-Agenda online con widget de reservas propio · TPV con caja y arqueos ·
-tratamientos multi-sesión · bot de WhatsApp con IA · pagos con Stripe.
+### El software de reservas y gestión para peluquerías, barberías y centros de estética
 
-[**citalash.com**](https://citalash.com)
+[citalash.com](https://citalash.com) · [Precios](https://citalash.com/#precios) · [Seguridad](https://citalash.com/seguridad) · [contacto@citalash.com](mailto:contacto@citalash.com)
 
 </div>
 
 ---
 
-## Tech
+**Citalash no es un marketplace.** Es la plataforma profesional que devuelve a cada salón el control de su negocio, sus clientes y su marca.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635FF5?logo=stripe&logoColor=white)
+- **Su propia página de reservas**, con su logo y su enlace, abierta 24/7.
+- **WhatsApp con IA** que contesta, confirma y mueve citas mientras el equipo trabaja.
+- **Agenda, equipo, TPV, tratamientos y facturación** en un solo panel, en el móvil y en el ordenador.
+- **La app de sus clientes**: cada cliente tiene su perfil con sus citas, bonos y recordatorios.
+- **Sin comisiones** por cliente nuevo y sin permanencia.
 
-Monorepo **pnpm + Turborepo**: API NestJS · Web Next.js · Prisma · Redis ·
-Stripe Connect · Meta Cloud API.
-
-## Cómo trabajamos
-
-El repositorio principal (**citalash**, privado) integra en `develop` vía
-PRs con CI obligatorio — typecheck, lint, tests con ratchet de cobertura y
-Semgrep — y [SonarQube](https://sonar.citalash.com) como panel de calidad
-del código nuevo. Producción despliega desde `develop`.
-
-## Contacto
-
-[citalash.com](https://citalash.com) · [hola@citalash.com](mailto:hola@citalash.com)
+Hecho en España para salones de España.
